@@ -1,0 +1,99 @@
+Here’s a **beginner-friendly roadmap** for learning JavaScript step by step:
+
+---
+
+## 🟢 1. Basics of JavaScript
+
+* What is JavaScript? (role in web development)
+* How to include JS in HTML (inline, internal, external)
+* Comments (`//` and `/* */`)
+* Variables (`var`, `let`, `const`)
+* Data types (string, number, boolean, null, undefined, object, symbol, bigint)
+* Operators (arithmetic, comparison, logical, assignment)
+
+---
+
+## 🟢 2. Control Flow
+
+* Conditionals (`if`, `else if`, `else`, `switch`)
+* Loops (`for`, `while`, `do...while`, `for...of`, `for...in`)
+* `break` and `continue`
+
+---
+
+## 🟢 3. Functions
+
+* Function declaration vs. expression
+* Arrow functions (`()=>{}`)
+* Parameters & return values
+* Scope (global, local, block)
+* Default parameters
+
+---
+
+## 🟢 4. Arrays & Objects
+
+* Creating arrays (`[]`) and objects (`{}`)
+* Common array methods (`push`, `pop`, `shift`, `unshift`, `map`, `filter`, `reduce`, `forEach`)
+* Object properties and methods
+* Destructuring arrays & objects
+
+---
+
+## 🟢 5. DOM (Document Object Model)
+
+* Selecting elements (`getElementById`, `querySelector`, etc.)
+* Changing content (`.innerText`, `.innerHTML`, `.value`)
+* Changing styles (`.style`)
+* Adding/removing elements
+* Event listeners (`onclick`, `addEventListener`)
+
+---
+
+## 🟢 6. ES6+ Features
+
+* Template literals (`` `Hello ${name}` ``)
+* Spread/rest operator (`...`)
+* `let` and `const`
+* Modules (`import` / `export`)
+* Classes and `this` keyword
+
+---
+
+## 🟢 7. Asynchronous JavaScript
+
+* `setTimeout` and `setInterval`
+* Promises (`.then`, `.catch`)
+* `async` / `await`
+* Fetch API (making HTTP requests)
+
+---
+
+## 🟢 8. Error Handling
+
+* `try...catch`
+* `throw` keyword
+* Debugging with `console.log()`
+
+---
+
+## 🟢 9. Browser APIs (Basics)
+
+* Local Storage & Session Storage
+* `JSON.stringify()` & `JSON.parse()`
+* Events (click, input, keydown, etc.)
+
+---
+
+## 🟢 10. Practice & Projects
+
+* Build a **calculator**
+* Make a **to-do list** (with add/delete tasks)
+* Create a **quiz app**
+* Simple **fetch API project** (like showing random jokes or weather)
+
+---
+
+👉 Once you’re comfortable with these, you can move on to **frameworks like React**, or dive deeper into **Node.js for backend**.
+
+Do you want me to **make you a step-by-step weekly learning plan** based on these topics?
