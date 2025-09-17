@@ -11,7 +11,10 @@ Happy Coding!
 */
 
 function squareDigits(num) {
-    var nums = num.toString().split("").map(element => (Number(element) ** 2));
+  var nums = num
+    .toString()
+    .split("")
+    .map((element) => Number(element) ** 2);
   return Number(nums.join(""));
 }
 
